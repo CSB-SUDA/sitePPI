@@ -1,0 +1,23 @@
+---
+title: "PPIDatabase"
+date: "2022/2/5"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+#  PPI, Signaling networks
+
+1.[**STRING** url:https://cn.string-db.org/](https://cn.string-db.org/)  
+2.[**BioGRID** url:http://thebiogrid.org/](http://thebiogrid.org/)  
+3.[**IntAct** url:http://www.ebi.ac.uk/intact/](http://www.ebi.ac.uk/intact/)  	
+4.[**HPRD** url:http://www.hprd.org/](http://www.hprd.org/)  
+5.[**DIP** url:http://www.hprd.org/](http://dip.doe-mbi.ucla.edu/)  
+6.[**PIPs** url:http://www.hprd.org/](http://www.compbio.dundee.ac.uk/www-pips/)  
+7.[**PrePPI** url:http://www.hprd.org/](https://bhapp.c2b2.columbia.edu/PrePPI/)  
+8.[**HINT** url:http://www.hprd.org/](http://hint.yulab.org/)  
+9.[**3did** url:http://www.hprd.org/](https://3did.irbbarcelona.org/index.php)  
+10.[**Reactome** url:http://www.hprd.org/](https://reactome.org/)  
+11.[**MINT** url:http://www.hprd.org/](https://mint.bio.uniroma2.it/)  
+12.[**GeneMANIA** url:http://www.hprd.org/](http://genemania.org/)  
+13.[**BIND** url:http://www.hprd.org/](http://bind.ca/)  

@@ -1,0 +1,178 @@
+---
+title: "site omics"
+date: "2022/2/7"
+output: html_document
+---
+
+#	site omics
+
+## Mutations
+
+### Database
+
+**(1):Mutation Database**  
+
+1.[**TGCA** url:https://portal.gdc.cancer.gov/](https://portal.gdc.cancer.gov/)  
+2.[**COSMIC** url:https://cancer.sanger.ac.uk/cosmic](https://cancer.sanger.ac.uk/cosmic)		
+3.[**ICGC** url:https://dcc.icgc.org/](https://dcc.icgc.org/)  
+4.[**DisGeNET** url:https://www.disgenet.org/home/](https://www.disgenet.org/home/)
+
+**(2):Database of mutations combined with PPI**  
+
+1.[**SKEMPI** url:https://life.bsc.es/pid/skempi2/](https://life.bsc.es/pid/skempi2/)  
+2.[**PINT** url:http://www.bioinfodatabase.com/pint/index.html](http://www.bioinfodatabase.com/pint/index.html)  
+3.[**PROXiMAT** url:http://www.iitm.ac.in/bioinfo/PROXiMATE/](http://www.iitm.ac.in/bioinfo/PROXiMATE/)  
+4.[**AB-Bind** url:	none]()  
+5.[**dbMPIKT** url:http://DeepLearner.ahu.edu.cn/web/dbMPIKT/](http://DeepLearner.ahu.edu.cn/web/dbMPIKT/)  
+6.[**ASEdb** url:none]()  
+7.[**BID** url:http://tsailab.org/BID/](http://tsailab.org/BID/)  
+
+### Tools
+
+**(1):Mapping**  
+
+1.[**dSysMap** url:https://dsysmap.irbbarcelona.org/](https://dsysmap.irbbarcelona.org/)  
+2.[**Interactome INSIDER** url:http://interactomeinsider.yulab.org/](http://interactomeinsider.yulab.org/)  
+3.[**PIIMS Server** url:http://chemyang.ccnu.edu.cn/ccb/server/PIIMS/index.php](http://chemyang.ccnu.edu.cn/ccb/server/PIIMS/index.php)  
+4.[**pdbsws** url:http://www.bioinf.org.uk/servers/pdbsws/](http://www.bioinf.org.uk/servers/pdbsws/)  
+5.[**pdbprofiling** url:https://pypi.org/project/pdb-profiling/](https://pypi.org/project/pdb-profiling/)  
+
+**(2)Scoring**
+
+**web server**
+
+1.[**mCSM-PPI2** url:http://biosig.unimelb.edu.au/mcsm_ppi2/](http://biosig.unimelb.edu.au/mcsm_ppi2/)  
+2.[**MutaBind2** url:https://lilab.jysw.suda.edu.cn/research/mutabind2/](https://lilab.jysw.suda.edu.cn/research/mutabind2/)  
+3.[**ELASPIC** url:http://elaspic.kimlab.org/](http://elaspic.kimlab.org/)  
+4.[**BeAtMuSiC** url:http://babylone.ulb.ac.be/beatmusic](http://babylone.ulb.ac.be/beatmusic)  
+5.[**SSIPe** url:https://zhanglab.ccmb.med.umich.edu/SSIPe](https://zhanglab.ccmb.med.umich.edu/SSIPe)  
+6.[**BindProfX** url:http://zhanglab.ccmb.med.umich.edu/BindProfX/](http://zhanglab.ccmb.med.umich.edu/BindProfX/)  
+7.[**SAAMBE-3D** url:http://compbio.clemson.edu/saambe_webserver/](http://compbio.clemson.edu/saambe_webserver/)  
+
+**software/R packages**
+
+1.[**FoldX** url:http://foldxsuite.crg.eu/](http://foldxsuite.crg.eu/)  
+2.[**iSEE** url:https://github.com/haddocking/iSee](https://github.com/haddocking/iSee)  
+
+**Perturbation**
+
+1.[**SNP-IN** url:http://korkinlab.org/snpintool/](http://korkinlab.org/snpintool/)  
+2.[**AlloSigMA** url:http://allosigma.bii.a-star.edu.sg](http://allosigma.bii.a-star.edu.sg)  
+3.[**PRISM** url:http://cosbi.ku.edu.tr/prism/index.php](http://cosbi.ku.edu.tr/prism/index.php)  
+
+
+## PTMs
+
+### Database
+
+1.[**SwissProt** url:https://www.expasy.org/resources/uniprotkb-swiss-prot](https://www.expasy.org/resources/uniprotkb-swiss-prot)  
+2.[**HPRD** url:http://www.hprd.org/](http://www.hprd.org/)  
+3.[**dbPTM** url:http://dbptm.mbc.nctu.edu.tw/](http://dbptm.mbc.nctu.edu.tw/)  
+4.[**FindMOD** url:https://web.expasy.org/findmod/](https://web.expasy.org/findmod/)  
+5.[**RESID** url:https://proteininformationresource.org/resid/](https://proteininformationresource.org/resid/)  
+6.[**SysPTM** url:http://lifecenter.sgst.cn/SysPTM/](http://lifecenter.sgst.cn/SysPTM/)  
+7.[**PhosphoSitePlus** url:https://www.phosphosite.org/homeAction.action](https://www.phosphosite.org/homeAction.action)  
+8.[**iPTMnet** url:https://research.bioinformatics.udel](https://research.bioinformatics.udel)  
+9.[**PTMD** url:https://research.bioinformatics.udel](http://ptmd.biocuckoo.org/)  
+10.[**Phospho3D** url:https://research.bioinformatics.udel](http://www.phospho3d.org/)  
+11.[**ProteomeScout** url:https://proteomescout.wustl.edu/](https://proteomescout.wustl.edu/)  
+12.[**PTMsigdb** url:http://prot-shiny-vm.broadinstitute.org/](http://prot-shiny-vm.broadinstitute.org/)  
+13.[**ActiveDriverDB** url:https://www.activedriverdb.org/](https://www.activedriverdb.org/)  
+14.[**Phospo.ELM** url:http://phospho.elm.eu.org/](http://phospho.elm.eu.org/)  
+15.[**DEPOD** url:http://www.koehnlab.de/depod/index.php](http://www.koehnlab.de/depod/index.php)  
+16.[**PHOSIDA** url:http://phosphat.mpimp-golm.mpg.de](http://phosphat.mpimp-golm.mpg.de)  
+17.[**PTMcode** url:https://ptmcode.embl.de/](https://ptmcode.embl.de/)  
+18.[**PhosphoPOINT** url:http://kinase.bioinformatics.tw/](http://kinase.bioinformatics.tw/)  
+19.[**PhosphoNET** url:http://www.phosphonet.ca/](http://www.phosphonet.ca/)  
+20.[**PhosphoNetworks** url:http://www.phosphonetworks.org](http://www.phosphonetworks.org)  
+21.[**Phosphopep** url:http://phosphopep.org/](http://phosphopep.org/)  
+22.[**PhosphoGrid** url:http://www.phosphogrid.org](http://www.phosphogrid.org)  
+23.[**UniCarbKB** url:http://www.unicarbkb.org/](http://www.unicarbkb.org/)  
+24.[**P3DB** url:http://p3db.org/](http://p3db.org/)  
+25.[**PhosPhAt** url:https://phosphat.uni-hohenheim.de/](https://phosphat.uni-hohenheim.de/)  
+26.[**PlantsP** url:http://plantsp.sdsc.edu](http://plantsp.sdsc.edu)  
+27.[**lymPHOS** url:https://www.lymphos.org/](https://www.lymphos.org/)  
+28.[**PhosphoPOINT** url:http://kinase.bioinformatics.tw/](http://kinase.bioinformatics.tw/)  
+29.[**The Phpsphorylation Site DB** url:http://www.phosphorylation.biochem.vt.edu/](http://www.phosphorylation.biochem.vt.edu/)  
+
+### Tools
+
+**(1)Mapping**
+
+**web server**
+
+1.[**PoGo** url:http://www.sanger.ac.uk/science/tools/pogo](http://www.sanger.ac.uk/science/tools/pogo)  
+
+**Cytoscape plug-in**  
+
+1.[**PTMOracle** url:http://apps.cytoscape.org/apps/PTMOracle](http://apps.cytoscape.org/apps/PTMOracle)  
+2.[**PhosphoPath** url:http://apps.cytoscape.org/apps/PTMOracle](http://apps.cytoscape.org/apps/phosphopath)  
+3.[**Omics Visualizer** url:http://apps.cytoscape.org/apps/omicsvisualizer](http://apps.cytoscape.org/apps/omicsvisualizer)  
+
+**Java**
+
+1.[**PTMapper** url:https://github.com/y-narushima/PTMapper](https://github.com/y-narushima/PTMapper)  
+
+**(2)Scoring**  
+**web server**  
+
+1.[**PTMsnp** url:http://gcode.kaist.ac.kr/ptmsnp](http://gcode.kaist.ac.kr/ptmsnp)  
+2.[**PTMfunc** url:http://www.ptmfunc.com/](http://www.ptmfunc.com/)  
+
+**software**
+
+1.[**FoldX** url:http://foldxsuite.crg.eu/](http://foldxsuite.crg.eu/)  
+
+**(3)Perturbation**
+**web server**
+
+1.[**piNET** url:http://pinet-server.org](http://pinet-server.org)  
+2.[**PTMsigDB** url:http://prot-shiny-vm.broadinstitute.org/](http://prot-shiny-vm.broadinstitute.org/)  
+
+**R packages**
+
+1.[**PTM-SEA** url:https://github.com/broadinstitute/ssGSEA2.0](https://github.com/broadinstitute/ssGSEA2.0)  
+
+##	Drug binding sites
+
+### Database
+
+**Drug**  
+
+1.[**DrugBank** url:https://go.drugbank.com/](https://go.drugbank.com/)  
+2.[**DrugCentral** url:https://drugcentral.org/](https://drugcentral.org/)  
+3.[**KEGG DRUG Database** url:https://www.genome.jp/kegg/drug/](https://www.genome.jp/kegg/drug/)  
+4.[**HMDB** url:https://hmdb.ca/](https://hmdb.ca/)  
+5.[**PubChem** url:https://pubchem.ncbi.nlm.nih.gov/](https://pubchem.ncbi.nlm.nih.gov/)  
+
+**DTI**  
+
+1.[**IUPHAR/BPS Guide to PHARMACOLOGY** url:https://www.guidetopharmacology.org/](https://www.guidetopharmacology.org/)  
+2.[**Therapeutic Target DB** url:http://db.idrblab.net/ttd/](http://db.idrblab.net/ttd/)  
+3.[**PharmGKB** url:https://www.pharmgkb.org/](https://www.pharmgkb.org/)  
+4.[**ChEMBL** url:https://www.ebi.ac.uk/chembl/](https://www.ebi.ac.uk/chembl/)  
+5.[**BindingDB** url:https://www.bindingdb.org/](https://www.bindingdb.org/)  
+6.[**DGIdb** url:https://dgidb.org/](https://dgidb.org/)  
+7.[**Reactome** url:https://reactome.org/](https://reactome.org/)  
+8.[**STITCH** url:http://stitch.embl.de/](http://stitch.embl.de/)  
+
+### Tools
+
+**Mapping**  
+
+1.[**Entrez Gene** url:https://www.ncbi.nlm.nih.gov/gene](https://www.ncbi.nlm.nih.gov/gene)  
+2.[**HGNC** url:https://www.genenames.org/](https://www.genenames.org/)  
+
+**Scoring**  
+
+1.[**DSD** url:http://dsd.cs.tufts.edu/](http://dsd.cs.tufts.edu/)  
+2.[**DPubChem** url:https://www.cbrc.kaust.edu.sa/dpubchem/](https://www.cbrc.kaust.edu.sa/dpubchem/)  
+3.[**DeepScreening** url:http://deepscreening.xielab.net](http://deepscreening.xielab.net)  
+4.[**NeDRex** url:https://api.nedrex.net/](https://api.nedrex.net/)  
+
+**Perturbation**  
+
+1.[**ProTINA** url:https://github.com/CABSEL/ProTINA](https://github.com/CABSEL/ProTINA)  
+2.[**iLINCS** url:http://www.ilincs.org](http://www.ilincs.org)  
+3.[**CellMinerCDB** url:https://discover.nci.nih.gov/rsconnect/cellminercdb](https://discover.nci.nih.gov/rsconnect/cellminercdb)  
+4.[**AlloSigMA 2** url:http://allosigma.bii.a-star.edu.sg](http://allosigma.bii.a-star.edu.sg)  
