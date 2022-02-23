@@ -1,3 +1,1 @@
-Welcome! 
-
-This book is at the link:http://121.5.52.202/sitePPI/
+Resources for site omics : http://121.5.52.202/sitePPI/
