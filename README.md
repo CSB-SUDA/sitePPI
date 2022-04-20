@@ -1,5 +1,3 @@
-### sitePPI
-
 Resource for site omics and protein-protein interaction network
 
 <font face="courier New"  size=10>
